@@ -1,0 +1,21 @@
+driver_number,driver_name,team_name,pred_win_proba
+4,Lando NORRIS,McLaren,0.68178445
+1,Max VERSTAPPEN,Red Bull Racing,0.6660519
+16,Charles LECLERC,Ferrari,0.022938555
+81,Oscar PIASTRI,McLaren,0.01499519
+63,George RUSSELL,Mercedes,0.011936114
+12,Kimi ANTONELLI,Mercedes,0.0037407477
+87,Oliver BEARMAN,Haas F1 Team,0.0033358873
+44,Lewis HAMILTON,Ferrari,0.0021197654
+55,Carlos SAINZ,Williams,0.002023375
+43,Franco COLAPINTO,Alpine,0.0010258269
+6,Isack HADJAR,Racing Bulls,0.00094196154
+5,Gabriel BORTOLETO,Kick Sauber,0.00094196154
+10,Pierre GASLY,Alpine,0.00094196154
+30,Liam LAWSON,Racing Bulls,0.00093148113
+31,Esteban OCON,Haas F1 Team,0.00093148113
+18,Lance STROLL,Aston Martin,0.0008978667
+22,Yuki TSUNODA,Red Bull Racing,0.0008978667
+27,Nico HULKENBERG,Kick Sauber,0.0008978667
+23,Alexander ALBON,Williams,0.0008978667
+14,Fernando ALONSO,Aston Martin,0.0008860104

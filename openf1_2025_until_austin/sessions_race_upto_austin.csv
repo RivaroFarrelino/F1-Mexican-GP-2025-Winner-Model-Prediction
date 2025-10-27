@@ -1,0 +1,20 @@
+meeting_key,session_key,location,date_start,date_end,session_type,session_name,country_key,country_code,country_name,circuit_key,circuit_short_name,gmt_offset,year
+1254,9693,Melbourne,2025-03-16 04:00:00+00:00,2025-03-16 06:00:00+00:00,Race,Race,5,AUS,Australia,10,Melbourne,11:00:00,2025
+1255,9998,Shanghai,2025-03-23 07:00:00+00:00,2025-03-23 09:00:00+00:00,Race,Race,53,CHN,China,49,Shanghai,08:00:00,2025
+1256,10006,Suzuka,2025-04-06 05:00:00+00:00,2025-04-06 07:00:00+00:00,Race,Race,4,JPN,Japan,46,Suzuka,09:00:00,2025
+1257,10014,Sakhir,2025-04-13 15:00:00+00:00,2025-04-13 17:00:00+00:00,Race,Race,36,BRN,Bahrain,63,Sakhir,03:00:00,2025
+1258,10022,Jeddah,2025-04-20 17:00:00+00:00,2025-04-20 19:00:00+00:00,Race,Race,153,KSA,Saudi Arabia,149,Jeddah,03:00:00,2025
+1259,10033,Miami,2025-05-04 20:00:00+00:00,2025-05-04 22:00:00+00:00,Race,Race,19,USA,United States,151,Miami,-04:00:00,2025
+1260,9987,Imola,2025-05-18 13:00:00+00:00,2025-05-18 15:00:00+00:00,Race,Race,13,ITA,Italy,6,Imola,02:00:00,2025
+1261,9979,Monaco,2025-05-25 13:00:00+00:00,2025-05-25 15:00:00+00:00,Race,Race,114,MON,Monaco,22,Monte Carlo,02:00:00,2025
+1262,9971,Barcelona,2025-06-01 13:00:00+00:00,2025-06-01 15:00:00+00:00,Race,Race,1,ESP,Spain,15,Catalunya,02:00:00,2025
+1263,9963,Montréal,2025-06-15 18:00:00+00:00,2025-06-15 20:00:00+00:00,Race,Race,46,CAN,Canada,23,Montreal,-04:00:00,2025
+1264,9955,Spielberg,2025-06-29 13:00:00+00:00,2025-06-29 15:00:00+00:00,Race,Race,17,AUT,Austria,19,Spielberg,02:00:00,2025
+1277,9947,Silverstone,2025-07-06 14:00:00+00:00,2025-07-06 16:00:00+00:00,Race,Race,2,GBR,United Kingdom,2,Silverstone,01:00:00,2025
+1265,9939,Spa-Francorchamps,2025-07-27 13:00:00+00:00,2025-07-27 15:00:00+00:00,Race,Race,16,BEL,Belgium,7,Spa-Francorchamps,02:00:00,2025
+1266,9928,Budapest,2025-08-03 13:00:00+00:00,2025-08-03 15:00:00+00:00,Race,Race,14,HUN,Hungary,4,Hungaroring,02:00:00,2025
+1267,9920,Zandvoort,2025-08-31 13:00:00+00:00,2025-08-31 15:00:00+00:00,Race,Race,133,NED,Netherlands,55,Zandvoort,02:00:00,2025
+1268,9912,Monza,2025-09-07 13:00:00+00:00,2025-09-07 15:00:00+00:00,Race,Race,13,ITA,Italy,39,Monza,02:00:00,2025
+1269,9904,Baku,2025-09-21 11:00:00+00:00,2025-09-21 13:00:00+00:00,Race,Race,30,AZE,Azerbaijan,144,Baku,04:00:00,2025
+1270,9896,Marina Bay,2025-10-05 12:00:00+00:00,2025-10-05 14:00:00+00:00,Race,Race,157,SGP,Singapore,61,Singapore,08:00:00,2025
+1271,9888,Austin,2025-10-19 19:00:00+00:00,2025-10-19 21:00:00+00:00,Race,Race,19,USA,United States,9,Austin,-05:00:00,2025
